@@ -1,8 +1,8 @@
-# Windows 95 Theme for Jekyll
+# Files for my personal site
 
 These are the files for my site.
 
-I didn't come up with this theme, just thought it looked nice. Original credits to the author. 
+I didn't come up with this theme, just the content. Thought it looked nice. 
 
-Original Author: [h01000110 (hi)](https://github.com/h01000110)
+Original Author of theme: [h01000110 (hi)](https://github.com/h01000110)
 
