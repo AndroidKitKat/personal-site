@@ -1,0 +1,25 @@
+permalink: /:year:month:day/:title
+url: www.michaeleisemann.com #Your url here
+baseurl: ""
+
+# variables
+name: Michael Eisemann's Personal Site
+description: You've made it this far, why not read more?
+google_verification: null
+port: 4002
+
+# File management
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE"]
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable : true
