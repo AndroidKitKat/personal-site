@@ -1,6 +1,6 @@
 # Files for my personal site
 
-These are the files for my site.
+These are the files for my site. I'm fond of them.
 
 I didn't come up with this theme, just the content. Thought it looked nice. 
 
