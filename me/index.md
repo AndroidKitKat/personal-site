@@ -3,5 +3,5 @@ layout: me
 title: me
 ---
 
-I'm testing stuff rn, please be paitent
+I'm testing stuff rn, please be patient
 
