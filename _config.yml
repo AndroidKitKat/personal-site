@@ -1,3 +1,4 @@
+
 permalink: /:year:month:day/:title
 url: www.michaeleisemann.com #Your url here
 baseurl: ""
@@ -20,6 +21,6 @@ sass:
 # Markdown
 markdown: kramdown
 kramdown:
-  input: GFM
-  syntax_highlighter_opts:
-    disable : true
+    input: GFM
+    syntax_highlighter_opts:
+        disable : true

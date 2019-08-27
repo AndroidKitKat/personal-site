@@ -1,14 +1,14 @@
------
+---
 layout: default
-title: "私のブログへようこそ！"
+title: "2019年08月29日 ブログ -- Welcome to my Blog!"
 tags: japanese
------
+---
 
 # 私のブログへようこそ！／ Welcome to my blog!
 
 こんいちは！　私はマイケルです。私はアニメ、コンピューター、J-POPが好きです。
 
-Hi there, my name is Mike Eisemann. I'm a Junior at the University of Notre Dame studying computer science. Some of my interests are anime, computers/video games, and music, specifically J-POP. 
+Hi there, my name is Mike Eisemann. I'm 20 years old and a Junior at the University of Notre Dame studying computer science. Some of my interests are anime, computers/video games, and music, specifically J-POP. 
 
 Some of my favorite anime are:
 
@@ -31,6 +31,13 @@ Some information about me:
  | 君のせい by 'the peggies' | 言いて。 by 'ヨルシカ' | Mousou Express from the MONOGATARI Series |
  | -------- | ----- | ----- |
  | [Click here to listen](https://waifupaste.moe/raw/V9.mp2) | [Click here to listen](https://waifupaste.moe/raw/Mz.mp2) | [Click here to listen](https://waifupaste.moe/raw/xz.mp2) |
+
+----
+
+## My Expectations and Thoughts on this Class
+
+I really hope to learn a lot during this semester. I've self studied bits and pieces of Japanese over the past couple years, and even purchased books such as Japanese for Busy People and GENKI I, but never had some of the self-discipline to really put my nose to the grind stone. 
+I think that formally taking a class will make me  put in the extra effort to achieve more. I'm excited to go through the long and strenuous journey that is learning Japanese. 
 
 ----
 {% include justcomments.html %}
