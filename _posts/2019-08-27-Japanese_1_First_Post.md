@@ -1,6 +1,6 @@
 ----
 layout: default
-title: 私のブログへようこそ！
+title: "私のブログへようこそ！"
 tags: japanese
 ----
 
