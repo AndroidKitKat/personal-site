@@ -6,7 +6,7 @@ tags: japanese
 
 # 私のブログへようこそ！／ Welcome to my blog!
 
-こんいちは！　私はマイケルです。私はアニメ、コンピューター、J-POPが好きです。
+こんいちは！ マイケルです。私はアニメ、コンピューター、J-POPが好きです。
 
 Hi there, my name is Mike Eisemann. I'm 20 years old and a Junior at the University of Notre Dame studying computer science. Some of my interests are anime, computers/video games, and music, specifically J-POP. 
 
@@ -32,12 +32,13 @@ Some information about me:
  | -------- | ----- | ----- |
  | [Click here to listen](https://waifupaste.moe/raw/V9.mp2) | [Click here to listen](https://waifupaste.moe/raw/Mz.mp2) | [Click here to listen](https://waifupaste.moe/raw/xz.mp2) |
 
-----
+If you want to discuss anything Japanese pop-culture, feel free to get in contact with me. I would be more than happy to meet new people who are interested in the same things I am. 
 
 ## My Expectations and Thoughts on this Class
 
 I really hope to learn a lot during this semester. I've self studied bits and pieces of Japanese over the past couple years, and even purchased books such as Japanese for Busy People and GENKI I, but never had some of the self-discipline to really put my nose to the grind stone. 
-I think that formally taking a class will make me  put in the extra effort to achieve more. I'm excited to go through the long and strenuous journey that is learning Japanese. 
+I think that formally taking a class will make me  put in the extra effort to achieve more. I'm excited to go through the long and strenuous journey that is learning Japanese with you all. 
+
 
 ----
 {% include justcomments.html %}

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4002/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4002/" rel="alternate" type="text/html" /><updated>2019-08-29T21:38:16-04:00</updated><id>http://localhost:4002/feed.xml</id><title type="html">Michael Eisemann’s Personal Site</title><subtitle>You've made it this far, why not read more?</subtitle><entry><title type="html">2019年08月29日 ブログ – Welcome to my Blog!</title><link href="http://localhost:4002/20190827/Japanese_1_Frist_Post" rel="alternate" type="text/html" title="2019年08月29日 ブログ -- Welcome to my Blog!" /><published>2019-08-27T00:00:00-04:00</published><updated>2019-08-27T00:00:00-04:00</updated><id>http://localhost:4002/20190827/Japanese_1_Frist_Post</id><content type="html" xml:base="http://localhost:4002/20190827/Japanese_1_Frist_Post">&lt;h1 id=&quot;私のブログへようこそ-welcome-to-my-blog&quot;&gt;私のブログへようこそ！／ Welcome to my blog!&lt;/h1&gt;
+
+&lt;p&gt;こんいちは！ マイケルです。私はアニメ、コンピューター、J-POPが好きです。&lt;/p&gt;
+
+&lt;p&gt;Hi there, my name is Mike Eisemann. I’m 20 years old and a Junior at the University of Notre Dame studying computer science. Some of my interests are anime, computers/video games, and music, specifically J-POP.&lt;/p&gt;
+
+&lt;p&gt;Some of my favorite anime are:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Lucky Star&lt;/th&gt;
+      &lt;th&gt;Darling in the Franxx&lt;/th&gt;
+      &lt;th&gt;Gabriel Dropout&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;https://waifupaste.moe/raw/Oq.jpg&quot; alt=&quot;Lucky Star&quot; width=&quot;250&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://waifupaste.moe/raw/uy.jpg&quot; alt=&quot;Darling in the Franxx&quot; width=&quot;250&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://waifupaste.moe/raw/af1.png&quot; alt=&quot;Gabriel Dropout&quot; width=&quot;250&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;I do not have much time for anime or much other as of late, mainly due to my course load increasing. However, when I do have time, I have been watching &lt;a href=&quot;https://anilist.co/anime/107663/Kanata-no-Astra/&quot;&gt;Kanata no Astra&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Some information about me:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;I am from the small town of Galesburg, Illinois, which is about 4 hours south of Chicago and sort of in the middle of nowhere.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I only got interested in Japan and Japanese during my freshman year of college. Before then, all I had known about Japan was that my grandfather served in the military during the United States’ occupation of Japan after World War II. I have since fallen in love with the language and the rich, rich history and culture of Japan.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I love computers and love to run my own web services whenever possible. For example, this blog runs entirely using &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; running off of a computer I configured myself. I find it very fun to face the challenges some of the DIY projects bring.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I regularly listen to J-POP/Japanese music. Some of my favorite songs are:&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;君のせい by ‘the peggies’&lt;/th&gt;
+      &lt;th&gt;言いて。 by ‘ヨルシカ’&lt;/th&gt;
+      &lt;th&gt;Mousou Express from the MONOGATARI Series&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://waifupaste.moe/raw/V9.mp2&quot;&gt;Click here to listen&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://waifupaste.moe/raw/Mz.mp2&quot;&gt;Click here to listen&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://waifupaste.moe/raw/xz.mp2&quot;&gt;Click here to listen&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;If you want to discuss anything Japanese pop-culture, feel free to get in contact with me. I would be more than happy to meet new people who are interested in the same things I am.&lt;/p&gt;
+
+&lt;h2 id=&quot;my-expectations-and-thoughts-on-this-class&quot;&gt;My Expectations and Thoughts on this Class&lt;/h2&gt;
+
+&lt;p&gt;I really hope to learn a lot during this semester. I’ve self studied bits and pieces of Japanese over the past couple years, and even purchased books such as Japanese for Busy People and GENKI I, but never had some of the self-discipline to really put my nose to the grind stone. 
+I think that formally taking a class will make me  put in the extra effort to achieve more. I’m excited to go through the long and strenuous journey that is learning Japanese with you all.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;div class=&quot;just-comments&quot; data-apikey=&quot;32afe1ae-50af-4d5b-be82-b3f37d48e922&quot;&gt;&lt;/div&gt;
+&lt;script async=&quot;&quot; src=&quot;https://just-comments.com/w2.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="japanese" /><summary type="html">私のブログへようこそ！／ Welcome to my blog!</summary></entry><entry><title type="html">Tugboat</title><link href="http://localhost:4002/20190724/tugboat" rel="alternate" type="text/html" title="Tugboat" /><published>2019-07-24T00:00:00-04:00</published><updated>2019-07-24T00:00:00-04:00</updated><id>http://localhost:4002/20190724/tugboat</id><content type="html" xml:base="http://localhost:4002/20190724/tugboat">&lt;h1 id=&quot;tugboat&quot;&gt;Tugboat&lt;/h1&gt;
+
+&lt;p&gt;A tiny application that will sync your git repos if you want them to.&lt;/p&gt;
+
+&lt;p&gt;I had the idea for something similar to this when I first deployed this website. I wanted to be able to keep everything self hosted, but also lightweight. I was told I should investigae using something like Travis CI, GitLab CI/CD, or Jenkins, but I really wasn’t liking those ideas for a couple of reasons&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Travis CI isn’t free&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;GitLab CI/CD or public Jenkins would require SSH access into my box&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Jenkins is too overkill for what I wanted to do&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;So, using my knowledge building another website with tornado, I made tugboat. I think it was a good exercise of warming myself back up to real Python developing since leaving school for the summer.&lt;/p&gt;
+
+&lt;p&gt;Find tugboat on github here: &lt;a href=&quot;https://github.com/AndroidKitKat/tugboat&quot;&gt;https://github.com/AndroidKitKat/tugboat&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="projects" /><summary type="html">Tugboat</summary></entry><entry><title type="html">My Projects</title><link href="http://localhost:4002/20190722/projects" rel="alternate" type="text/html" title="My Projects" /><published>2019-07-22T00:00:00-04:00</published><updated>2019-07-22T00:00:00-04:00</updated><id>http://localhost:4002/20190722/projects</id><content type="html" xml:base="http://localhost:4002/20190722/projects">&lt;h1 id=&quot;my-projects&quot;&gt;My Projects&lt;/h1&gt;
+
+&lt;p&gt;When I get more time, I’m going to flesh this page out, so stay tuned!&lt;/p&gt;</content><author><name></name></author><category term="projects" /><summary type="html">My Projects</summary></entry><entry><title type="html">Testo</title><link href="http://localhost:4002/20120822/testo" rel="alternate" type="text/html" title="Testo" /><published>2012-08-22T00:00:00-04:00</published><updated>2012-08-22T00:00:00-04:00</updated><id>http://localhost:4002/20120822/testo</id><content type="html" xml:base="http://localhost:4002/20120822/testo">&lt;p&gt;This is a test of my script, please work or ill kernel mode set myself this aasdfaasdasdxcfvvasdf\&lt;/p&gt;
+
+&lt;p&gt;asdf&lt;/p&gt;</content><author><name></name></author><category term="projects" /><summary type="html">This is a test of my script, please work or ill kernel mode set myself this aasdfaasdasdxcfvvasdf\</summary></entry></feed><?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://www.michaeleisemann.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.michaeleisemann.com/" rel="alternate" type="text/html" /><updated>2019-08-29T21:38:16-04:00</updated><id>https://www.michaeleisemann.com/feed.xml</id><title type="html">Michael Eisemann’s Personal Site</title><subtitle>You've made it this far, why not read more?</subtitle><entry><title type="html">2019年08月29日 ブログ – Welcome to my Blog!</title><link href="https://www.michaeleisemann.com/20190827/Japanese_1_Frist_Post" rel="alternate" type="text/html" title="2019年08月29日 ブログ -- Welcome to my Blog!" /><published>2019-08-27T00:00:00-04:00</published><updated>2019-08-27T00:00:00-04:00</updated><id>https://www.michaeleisemann.com/20190827/Japanese_1_Frist_Post</id><content type="html" xml:base="https://www.michaeleisemann.com/20190827/Japanese_1_Frist_Post">&lt;h1 id=&quot;私のブログへようこそ-welcome-to-my-blog&quot;&gt;私のブログへようこそ！／ Welcome to my blog!&lt;/h1&gt;
+
+&lt;p&gt;こんいちは！ マイケルです。私はアニメ、コンピューター、J-POPが好きです。&lt;/p&gt;
+
+&lt;p&gt;Hi there, my name is Mike Eisemann. I’m 20 years old and a Junior at the University of Notre Dame studying computer science. Some of my interests are anime, computers/video games, and music, specifically J-POP.&lt;/p&gt;
+
+&lt;p&gt;Some of my favorite anime are:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Lucky Star&lt;/th&gt;
+      &lt;th&gt;Darling in the Franxx&lt;/th&gt;
+      &lt;th&gt;Gabriel Dropout&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;https://waifupaste.moe/raw/Oq.jpg&quot; alt=&quot;Lucky Star&quot; width=&quot;250&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://waifupaste.moe/raw/uy.jpg&quot; alt=&quot;Darling in the Franxx&quot; width=&quot;250&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://waifupaste.moe/raw/af1.png&quot; alt=&quot;Gabriel Dropout&quot; width=&quot;250&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;I do not have much time for anime or much other as of late, mainly due to my course load increasing. However, when I do have time, I have been watching &lt;a href=&quot;https://anilist.co/anime/107663/Kanata-no-Astra/&quot;&gt;Kanata no Astra&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Some information about me:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;I am from the small town of Galesburg, Illinois, which is about 4 hours south of Chicago and sort of in the middle of nowhere.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I only got interested in Japan and Japanese during my freshman year of college. Before then, all I had known about Japan was that my grandfather served in the military during the United States’ occupation of Japan after World War II. I have since fallen in love with the language and the rich, rich history and culture of Japan.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I love computers and love to run my own web services whenever possible. For example, this blog runs entirely using &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; running off of a computer I configured myself. I find it very fun to face the challenges some of the DIY projects bring.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I regularly listen to J-POP/Japanese music. Some of my favorite songs are:&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;君のせい by ‘the peggies’&lt;/th&gt;
+      &lt;th&gt;言いて。 by ‘ヨルシカ’&lt;/th&gt;
+      &lt;th&gt;Mousou Express from the MONOGATARI Series&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://waifupaste.moe/raw/V9.mp2&quot;&gt;Click here to listen&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://waifupaste.moe/raw/Mz.mp2&quot;&gt;Click here to listen&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://waifupaste.moe/raw/xz.mp2&quot;&gt;Click here to listen&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;If you want to discuss anything Japanese pop-culture, feel free to get in contact with me. I would be more than happy to meet new people who are interested in the same things I am.&lt;/p&gt;
+
+&lt;h2 id=&quot;my-expectations-and-thoughts-on-this-class&quot;&gt;My Expectations and Thoughts on this Class&lt;/h2&gt;
+
+&lt;p&gt;I really hope to learn a lot during this semester. I’ve self studied bits and pieces of Japanese over the past couple years, and even purchased books such as Japanese for Busy People and GENKI I, but never had some of the self-discipline to really put my nose to the grind stone. 
+I think that formally taking a class will make me  put in the extra effort to achieve more. I’m excited to go through the long and strenuous journey that is learning Japanese with you all.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;div class=&quot;just-comments&quot; data-apikey=&quot;32afe1ae-50af-4d5b-be82-b3f37d48e922&quot;&gt;&lt;/div&gt;
+&lt;script async=&quot;&quot; src=&quot;https://just-comments.com/w2.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="japanese" /><summary type="html">私のブログへようこそ！／ Welcome to my blog!</summary></entry><entry><title type="html">Tugboat</title><link href="https://www.michaeleisemann.com/20190724/tugboat" rel="alternate" type="text/html" title="Tugboat" /><published>2019-07-24T00:00:00-04:00</published><updated>2019-07-24T00:00:00-04:00</updated><id>https://www.michaeleisemann.com/20190724/tugboat</id><content type="html" xml:base="https://www.michaeleisemann.com/20190724/tugboat">&lt;h1 id=&quot;tugboat&quot;&gt;Tugboat&lt;/h1&gt;
+
+&lt;p&gt;A tiny application that will sync your git repos if you want them to.&lt;/p&gt;
+
+&lt;p&gt;I had the idea for something similar to this when I first deployed this website. I wanted to be able to keep everything self hosted, but also lightweight. I was told I should investigae using something like Travis CI, GitLab CI/CD, or Jenkins, but I really wasn’t liking those ideas for a couple of reasons&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Travis CI isn’t free&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;GitLab CI/CD or public Jenkins would require SSH access into my box&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Jenkins is too overkill for what I wanted to do&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;So, using my knowledge building another website with tornado, I made tugboat. I think it was a good exercise of warming myself back up to real Python developing since leaving school for the summer.&lt;/p&gt;
+
+&lt;p&gt;Find tugboat on github here: &lt;a href=&quot;https://github.com/AndroidKitKat/tugboat&quot;&gt;https://github.com/AndroidKitKat/tugboat&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="projects" /><summary type="html">Tugboat</summary></entry><entry><title type="html">My Projects</title><link href="https://www.michaeleisemann.com/20190722/projects" rel="alternate" type="text/html" title="My Projects" /><published>2019-07-22T00:00:00-04:00</published><updated>2019-07-22T00:00:00-04:00</updated><id>https://www.michaeleisemann.com/20190722/projects</id><content type="html" xml:base="https://www.michaeleisemann.com/20190722/projects">&lt;h1 id=&quot;my-projects&quot;&gt;My Projects&lt;/h1&gt;
+
+&lt;p&gt;When I get more time, I’m going to flesh this page out, so stay tuned!&lt;/p&gt;</content><author><name></name></author><category term="projects" /><summary type="html">My Projects</summary></entry><entry><title type="html">Testo</title><link href="https://www.michaeleisemann.com/20120822/testo" rel="alternate" type="text/html" title="Testo" /><published>2012-08-22T00:00:00-04:00</published><updated>2012-08-22T00:00:00-04:00</updated><id>https://www.michaeleisemann.com/20120822/testo</id><content type="html" xml:base="https://www.michaeleisemann.com/20120822/testo">&lt;p&gt;This is a test of my script, please work or ill kernel mode set myself this aasdfaasdasdxcfvvasdf\&lt;/p&gt;
+
+&lt;p&gt;asdf&lt;/p&gt;</content><author><name></name></author><category term="projects" /><summary type="html">This is a test of my script, please work or ill kernel mode set myself this aasdfaasdasdxcfvvasdf\</summary></entry></feed>

@@ -1,8 +1,7 @@
 
 permalink: /:year:month:day/:title
 url: www.michaeleisemann.com #Your url here
-baseurl: ""
-
+base url:
 # variables
 name: Michael Eisemann's Personal Site
 description: You've made it this far, why not read more?
@@ -11,7 +10,7 @@ port: 4002
 
 # File management
 include: [".htaccess"]
-exclude: ["README.md", "LICENSE"]
+exclude: ["README.md", "LICENSE", "log.txt", "changed"]
 
 # Sass
 sass:
@@ -24,3 +23,9 @@ kramdown:
     input: GFM
     syntax_highlighter_opts:
         disable : true
+
+plugin:
+    - jekyll-feed
+
+feed:
+    path: feed.xml
