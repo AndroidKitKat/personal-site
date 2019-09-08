@@ -110,3 +110,6 @@ That's it. There are some things you will want to know. To switch between your E
 ----
 
 Have fun with your new input method!
+
+----
+{% include justcomments.html %}

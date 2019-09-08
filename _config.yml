@@ -1,6 +1,6 @@
 
 permalink: /:year:month:day/:title
-url: www.michaeleisemann.com #Your url here
+url: https://www.michaeleisemann.com #Your url here
 base url:
 # variables
 name: Michael Eisemann's Personal Site

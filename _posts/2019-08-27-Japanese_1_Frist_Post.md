@@ -24,7 +24,7 @@ Some information about me:
  
  * I only got interested in Japan and Japanese during my freshman year of college. Before then, all I had known about Japan was that my grandfather served in the military during the United States' occupation of Japan after World War II. I have since fallen in love with the language and the rich, rich history and culture of Japan. 
  
- * I love computers and love to run my own web services whenever possible. For example, this blog runs entirely using [Jekyll](https://jekyllrb.com/) running off of a computer I configured myself. I find it very fun to face the challenges some of the DIY projects bring.
+ * I love computers and love to run my own web services whenever possible. For example, this blog runs entirely using [Jekyll](https://jekyllrb.com/) running off of a computer I configured myself. I find it very fun to face the challenges some of the DIY projects bring. I've also got a file sharing/link shortening service at [https://waifupaste.moe/](https://waifupaste.moe/). It's pretty fun to make things work with computers. 
  
  * I regularly listen to J-POP/Japanese music. Some of my favorite songs are:
  
