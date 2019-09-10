@@ -43,7 +43,7 @@
 		</div>
 		<div class="post_list">
 			{% unless page.date%}
-				{% if page.title == 'About Me' or page.title == '404...' %}
+				{% if page.title == 'me' or page.title == '404...' %}
 					<ul>
 						{% for post in site.posts %}
 						<li><a href="{{  post.url }}" title="{{ post.title }}"><img src="/assets/img/file.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
@@ -83,16 +83,10 @@
 			</ul>
 			<div class="post_content">
         		{{ content }}
-				{% if page.title %}
-					{% include donate.html %}
-				{% endif %}
 			</div>
 		</div>
     {% endif %}
 	<script src="/assets/js/001.js"></script>
 	<script src="/assets/js/002.js"></script>
-	<div class="footer">
-		<p>Created by <a href="http://github.com/h01000110" target="_blank">h01000110 (hi)</a> | Code licensed under <a href="https://github.com/h01000110/h01000110.github.io/blob/master/LICENSE" target="_blank">MIT License</a></p>
-	</div>
 </body>
 </html>
